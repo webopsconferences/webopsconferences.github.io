@@ -1,7 +1,7 @@
 --- # Conferences
 - name: '@Scale'
   url: http://atscaleconference.com/
-  description: '@Scale is a series of technical conferences for engineers who build or maintain systems that are designed for scale. Building applications and services that scale to millions or even billions of people presents a complex set of engineering challenges, many of them unprecedented. The @Scale community is focused on bringing people together to openly discuss these challenges and collaborate on the development of new solutions.' 
+  description: '@Scale is a series of technical conferences for engineers who build or maintain systems that are designed for scale. Building applications and services that scale to millions or even billions of people presents a complex set of engineering challenges, many of them unprecedented. The @Scale community is focused on bringing people together to openly discuss these challenges and collaborate on the development of new solutions.'
 
 - name: Atmosphere
   url: http://atmosphere-conference.com/
@@ -18,7 +18,7 @@
 - name: Devops Days
   url: http://www.devopsdays.org/
   description: The conference that brings development and operations together.
-  occurences: 
+  occurences:
     - start_date: 2015-04-03
       end_date: 2015-04-04
       location: Ljubljana, Slovenia
@@ -54,7 +54,7 @@
 - name: Gluecon
   url: http://gluecon.com/
   description: Gluecon covers topics like NoSQL, APIs, Node.js, HTML5, Backend-as-a-Service, cloud management and security, cloud storage, Hadoop, DevOps, Mobile App development, cloud platforms, and many, many others.
-  occurences: 
+  occurences:
     - start_date: 2015-05-20
       end_date: 2015-05-21
       location: Broomfield, CO
@@ -62,7 +62,7 @@
 - name: Large Installation System Administration Conference
   url: https://www.usenix.org/conferences/byname/5
   description: LISA is the premier conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
-  occurences: 
+  occurences:
     - start_date: 2015-11-08
       end_date: 2015-11-13
       location: Washington, DC
@@ -70,7 +70,7 @@
 - name: Monitorama
   url: http://monitorama.com/
   description: An open source monitoring conference and hackathon.
-  occurences: 
+  occurences:
     - start_date: 2015-06-15
       end_date: 2015-06-17
       location: Portland, OR
@@ -102,7 +102,7 @@
 - name: Surge
   url: http://surge.omniti.com/2015
   description: The Surge Conference is the place where Web Infrastructure and Scalability experts gather, advance and emerge. It is where you can access the people and ideas that matter most to your company and career.
-  occurences: 
+  occurences:
     - start_date: 2015-09-23
       end_date: 2015-09-25
       location: National Harbor, MD
@@ -110,7 +110,7 @@
 - name: USENIX Configuration Management Summit
   url: https://www.usenix.org/conferences/byname/714
   description:  We will continue to bring the configuration management community together to advance the state of configuration management, discuss its problems and solutions, and enhance the community of this growing field.
-  occurences: 
+  occurences:
     - start_date: 2015-11-09
       end_date: 2015-11-09
       location: Washington, DC
@@ -118,15 +118,15 @@
 - name: USENIX Release Engineering Summit
   url: https://www.usenix.org/conferences/byname/882
   description: We will bring members of the release engineering community together to advance the state of release engineering, discuss its problems and solutions, and provide a forum for communication for members of this quickly growing field.
-  occurences: 
+  occurences:
     - start_date: 2015-11-13
       end_date: 2015-11-13
       location: Washington, DC
 
 - name: USENIX SREcon
   url: https://www.usenix.org/conferences/byname/925
-  description: Two days of highly technical subjects around site reliability and production systems at scale. 
-  occurences: 
+  description: Two days of highly technical subjects around site reliability and production systems at scale.
+  occurences:
     - start_date: 2015-03-16
       end_date: 2015-03-17
       location: Santa Clara, CA
@@ -137,7 +137,7 @@
 - name: Velocity
   url: http://velocityconf.com/
   description: A Conference for Web Operations, End-to-End Optimization, IT as a Business Driver, Ubiquitous Delivery for all including Mobile Platforms, Deliberately Unstable Systems & Performance
-  occurences: 
+  occurences:
     - start_date: 2015-05-27
       end_date: 2015-05-29
       location: Santa Clara, CA
