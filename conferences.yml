@@ -83,6 +83,14 @@
       end_date: 2015-06-24
       location: Portland, OR
 
+- name: Rootconf
+  url: https://rootconf.in/2015/
+  description: Rootconf will help you to plan and develop a strategy map for infrastructure and devops. It will show you the building blocks for reaching a strategy for Infrastructure Scaling, Continuous Integration, Deployment and Delivery.
+  occurences:
+    - start_date: 2015-05-15
+      end_date: 2015-05-16
+      location: Bangalore, India
+
 - name: Surge
   url: http://surge.omniti.com/2015
   description: The Surge Conference is the place where Web Infrastructure and Scalability experts gather, advance and emerge. It is where you can access the people and ideas that matter most to your company and career.
