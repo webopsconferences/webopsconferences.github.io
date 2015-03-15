@@ -3,6 +3,14 @@
   url: http://atscaleconference.com/
   description: '@Scale is a series of technical conferences for engineers who build or maintain systems that are designed for scale. Building applications and services that scale to millions or even billions of people presents a complex set of engineering challenges, many of them unprecedented. The @Scale community is focused on bringing people together to openly discuss these challenges and collaborate on the development of new solutions.' 
 
+- name: Atmosphere
+  url: http://atmosphere-conference.com/
+  description: The conference is addressed to everyone who works and lives in the Internet environment and faces the challenge of integrating the work of project managers, programmers, web developers and content managers. The dynamic growth of e-business requires the continuous improvement of web stability and web performance knowledge. There is no better way to avoid mistakes than the exchange of experiences between people that solve similar problems. Our aim is to deliver this knowledge with the help of Polish and international leaders in the field.
+  occurences:
+    - start_date: 2015-05-18
+      end_date: 2015-05-19
+      location: Krakow, Poland
+
 - name: Config Management Camp
   url: http://cfgmgmtcamp.eu/
   description: ConfigManagementCamp is the event for people interested in open source configuration management to meet each other. ConfigManagementCamp will be the event where different communities will meet and exchange ideas both internally and within the broader community.
