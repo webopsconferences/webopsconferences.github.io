@@ -1,0 +1,37 @@
+--- # Conferences
+- name: '@Scale'
+  url: http://atscaleconference.com/
+  description: '@Scale is a series of technical conferences for engineers who build or maintain systems that are designed for scale. Building applications and services that scale to millions or even billions of people presents a complex set of engineering challenges, many of them unprecedented. The @Scale community is focused on bringing people together to openly discuss these challenges and collaborate on the development of new solutions.' 
+- name: Config Management Camp
+  url: http://cfgmgmtcamp.eu/
+  description: ConfigManagementCamp is the event for people interested in open source configuration management to meet each other. ConfigManagementCamp will be the event where different communities will meet and exchange ideas both internally and within the broader community.
+- name: Devops Days
+  url: http://www.devopsdays.org/
+  description: The conference that brings development and operations together.
+- name: Flowcon
+  url: http://flowcon.org/
+  description: FlowCon brings together technologists and industry leaders passionate about innovation through continuous delivery, continuous design, and lean product development. We'll be exploring the role of culture, technology and design in growing organisations that thrive in an environment of continual change. We will provide inspiring and actionable information for key decision makers responsible for products and services that depend on software.
+- name: Gluecon
+  url: http://gluecon.com/
+  description: Gluecon covers topics like NoSQL, APIs, Node.js, HTML5, Backend-as-a-Service, cloud management and security, cloud storage, Hadoop, DevOps, Mobile App development, cloud platforms, and many, many others.
+- name: Monitorama
+  url: http://monitorama.com/
+  description: An open source monitoring conference and hackathon.
+- name: OSCON
+  url: http://www.oscon.com
+  description: OSCON celebrates, defines, and demonstrates the power of open source in the world today.
+- name: Surge
+  url: http://surge.omniti.com/2015
+  description: The Surge Conference is the place where Web Infrastructure and Scalability experts gather, advance and emerge. It is where you can access the people and ideas that matter most to your company and career.
+- name: USENIX Configuration Management Summit
+  url: https://www.usenix.org/conferences/byname/714
+  description:  We will continue to bring the configuration management community together to advance the state of configuration management, discuss its problems and solutions, and enhance the community of this growing field.
+- name: USENIX Release Engineering Summit
+  url: https://www.usenix.org/conferences/byname/882
+  description: We will bring members of the release engineering community together to advance the state of release engineering, discuss its problems and solutions, and provide a forum for communication for members of this quickly growing field.
+- name: USENIX SREcon
+  url: https://www.usenix.org/conferences/byname/925
+  description: Two days of highly technical subjects around site reliability and production systems at scale. 
+- name: Velocity
+  url: http://velocityconf.com/
+  description: A Conference for Web Operations, End-to-End Optimization, IT as a Business Driver, Ubiquitous Delivery for all including Mobile Platforms, Deliberately Unstable Systems & Performance
