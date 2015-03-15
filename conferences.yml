@@ -78,10 +78,18 @@
 - name: OSCON
   url: http://www.oscon.com
   description: OSCON celebrates, defines, and demonstrates the power of open source in the world today.
-  occurences: 
+  occurences:
     - start_date: 2015-06-20
       end_date: 2015-06-24
       location: Portland, OR
+
+- name: QCon
+  url: https://qconsf.com/
+  description: QCon empowers software development by facilitating the spread of knowledge and innovation in the developer community. A practitioner-driven conference, QCon is designed for technical team leads, architects, engineering directors, and project managers who influence innovation in their teams.
+  occurences:
+    - start_date: 2015-11-16
+      end_date: 2015-11-18
+      location: San Francisco, CA
 
 - name: Rootconf
   url: https://rootconf.in/2015/
