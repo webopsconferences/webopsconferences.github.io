@@ -13,6 +13,19 @@
     <p>
       <%= conference['description'] %>
     </p>
+    <% if conference.has_key? 'occurences' %>
+      <p>
+      Upcoming on:
+      <ul>
+        <% conference['occurences'].each do |occurence| %>
+          <li>
+            <%= occurence['start_date'] %> to <%= occurence['end_date'] %> in <%= occurence['location'] %>
+          </li>
+        <% end %>
+      </ul>
+    <% else %>
+      <p>Next occurence not yet announced.</p>
+    <% end %>
   <% end %>
 </body>
 </html>

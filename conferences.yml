@@ -2,36 +2,127 @@
 - name: '@Scale'
   url: http://atscaleconference.com/
   description: '@Scale is a series of technical conferences for engineers who build or maintain systems that are designed for scale. Building applications and services that scale to millions or even billions of people presents a complex set of engineering challenges, many of them unprecedented. The @Scale community is focused on bringing people together to openly discuss these challenges and collaborate on the development of new solutions.' 
+
 - name: Config Management Camp
   url: http://cfgmgmtcamp.eu/
   description: ConfigManagementCamp is the event for people interested in open source configuration management to meet each other. ConfigManagementCamp will be the event where different communities will meet and exchange ideas both internally and within the broader community.
+
 - name: Devops Days
   url: http://www.devopsdays.org/
   description: The conference that brings development and operations together.
+  occurences: 
+    - start_date: 2015-04-03
+      end_date: 2015-04-04
+      location: Ljubljana, Slovenia
+    - start_date: 2015-04-14
+      end_date: 2015-04-15
+      location: Paris, France
+    - start_date: 2015-04-23
+      end_date: 2015-04-24
+      location: Denver, CO
+    - start_date: 2015-04-30
+      end_date: 2015-05-01
+      location: New York, NY
+    - start_date: 2015-05-04
+      end_date: 2015-05-05
+      location: Austin, TX
+    - start_date: 2015-05-14
+      end_date: 2015-05-15
+      location: Toronto, Canada
+    - start_date: 2015-06-11
+      end_date: 2015-06-12
+      location: Washington, DC
+    - start_date: 2015-06-24
+      end_date: 2015-06-26
+      location: Amsterdam, Netherlands
+    - start_date: 2015-07-08
+      end_date: 2015-07-09
+      location: Minneapolis, MN
+
 - name: Flowcon
   url: http://flowcon.org/
   description: FlowCon brings together technologists and industry leaders passionate about innovation through continuous delivery, continuous design, and lean product development. We'll be exploring the role of culture, technology and design in growing organisations that thrive in an environment of continual change. We will provide inspiring and actionable information for key decision makers responsible for products and services that depend on software.
+
 - name: Gluecon
   url: http://gluecon.com/
   description: Gluecon covers topics like NoSQL, APIs, Node.js, HTML5, Backend-as-a-Service, cloud management and security, cloud storage, Hadoop, DevOps, Mobile App development, cloud platforms, and many, many others.
+  occurences: 
+    - start_date: 2015-05-20
+      end_date: 2015-05-21
+      location: Broomfield, CO
+
+- name: Large Installation System Administration Conference
+  url: https://www.usenix.org/conferences/byname/5
+  description: LISA is the premier conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
+  occurences: 
+    - start_date: 2015-11-08
+      end_date: 2015-11-13
+      location: Washington, DC
+
 - name: Monitorama
   url: http://monitorama.com/
   description: An open source monitoring conference and hackathon.
+  occurences: 
+    - start_date: 2015-06-15
+      end_date: 2015-06-17
+      location: Portland, OR
+
 - name: OSCON
   url: http://www.oscon.com
   description: OSCON celebrates, defines, and demonstrates the power of open source in the world today.
+  occurences: 
+    - start_date: 2015-06-20
+      end_date: 2015-06-24
+      location: Portland, OR
+
 - name: Surge
   url: http://surge.omniti.com/2015
   description: The Surge Conference is the place where Web Infrastructure and Scalability experts gather, advance and emerge. It is where you can access the people and ideas that matter most to your company and career.
+  occurences: 
+    - start_date: 2015-09-23
+      end_date: 2015-09-25
+      location: National Harbor, MD
+
 - name: USENIX Configuration Management Summit
   url: https://www.usenix.org/conferences/byname/714
   description:  We will continue to bring the configuration management community together to advance the state of configuration management, discuss its problems and solutions, and enhance the community of this growing field.
+  occurences: 
+    - start_date: 2015-11-09
+      end_date: 2015-11-09
+      location: Washington, DC
+
 - name: USENIX Release Engineering Summit
   url: https://www.usenix.org/conferences/byname/882
   description: We will bring members of the release engineering community together to advance the state of release engineering, discuss its problems and solutions, and provide a forum for communication for members of this quickly growing field.
+  occurences: 
+    - start_date: 2015-11-13
+      end_date: 2015-11-13
+      location: Washington, DC
+
 - name: USENIX SREcon
   url: https://www.usenix.org/conferences/byname/925
   description: Two days of highly technical subjects around site reliability and production systems at scale. 
+  occurences: 
+    - start_date: 2015-03-16
+      end_date: 2015-03-17
+      location: Santa Clara, CA
+    - start_date: 2015-05-14
+      end_date: 2015-05-15
+      location: Dublin, Ireland
+
 - name: Velocity
   url: http://velocityconf.com/
   description: A Conference for Web Operations, End-to-End Optimization, IT as a Business Driver, Ubiquitous Delivery for all including Mobile Platforms, Deliberately Unstable Systems & Performance
+  occurences: 
+    - start_date: 2015-05-27
+      end_date: 2015-05-29
+      location: Santa Clara, CA
+    - start_date: 2015-08-11
+      end_date: 2015-08-12
+      location: Bejing, China
+    - start_date: 2015-10-12
+      end_date: 2015-10-14
+      location: New York, NY
+    - start_date: 2015-10-28
+      end_date: 2015-10-30
+      location: Amsterdam, Netherlands
