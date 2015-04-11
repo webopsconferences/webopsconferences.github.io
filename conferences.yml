@@ -19,9 +19,6 @@
   url: http://www.devopsdays.org/
   description: The conference that brings development and operations together.
   occurences:
-    - start_date: 2015-04-03
-      end_date: 2015-04-04
-      location: Ljubljana, Slovenia
     - start_date: 2015-04-14
       end_date: 2015-04-15
       location: Paris, France
@@ -127,9 +124,6 @@
   url: https://www.usenix.org/conferences/byname/925
   description: Two days of highly technical subjects around site reliability and production systems at scale.
   occurences:
-    - start_date: 2015-03-16
-      end_date: 2015-03-17
-      location: Santa Clara, CA
     - start_date: 2015-05-14
       end_date: 2015-05-15
       location: Dublin, Ireland
