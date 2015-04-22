@@ -44,6 +44,14 @@
       end_date: 2015-07-09
       location: Minneapolis, MN
 
+- name: dotScale
+  url: http://www.dotscale.io/
+  description: dotScale is a unique tech conference on Scalability, DevOps and Distributed Systems. Our mission is to invite the best hackers worldwide to share their insights on stage!
+  occurences:
+    - start_date: 2015-06-08
+      end_date: 2015-06-08
+      location: Paris, France
+
 - name: Flowcon
   url: http://flowcon.org/
   description: FlowCon brings together technologists and industry leaders passionate about innovation through continuous delivery, continuous design, and lean product development. We'll be exploring the role of culture, technology and design in growing organisations that thrive in an environment of continual change. We will provide inspiring and actionable information for key decision makers responsible for products and services that depend on software.
