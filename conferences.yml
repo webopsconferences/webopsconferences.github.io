@@ -77,6 +77,14 @@
       end_date: 2015-06-17
       location: Portland, OR
 
+- name: Operability.IO
+  url: http://operability.io/
+  description: Come and learn from your peers how new processes, tools and techniques are changing IT Operations forever.
+  occurences:
+    - start_date: 2015-09-24
+      end_date: 2015-09-25
+      location: London, United Kingdom
+
 - name: OSCON
   url: http://www.oscon.com
   description: OSCON celebrates, defines, and demonstrates the power of open source in the world today.
