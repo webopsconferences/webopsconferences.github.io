@@ -2,14 +2,14 @@
 - name: '@Scale'
   url: http://atscaleconference.com/
   description: '@Scale is a series of technical conferences for engineers who build or maintain systems that are designed for scale. Building applications and services that scale to millions or even billions of people presents a complex set of engineering challenges, many of them unprecedented. The @Scale community is focused on bringing people together to openly discuss these challenges and collaborate on the development of new solutions.'
+  occurences:
+      - start_date: 2015-09-14
+        end_date: 2015-09-14
+        location: San Jose, CA
 
 - name: Atmosphere
   url: http://atmosphere-conference.com/
   description: The conference is addressed to everyone who works and lives in the Internet environment and faces the challenge of integrating the work of project managers, programmers, web developers and content managers. The dynamic growth of e-business requires the continuous improvement of web stability and web performance knowledge. There is no better way to avoid mistakes than the exchange of experiences between people that solve similar problems. Our aim is to deliver this knowledge with the help of Polish and international leaders in the field.
-  occurences:
-    - start_date: 2015-05-18
-      end_date: 2015-05-19
-      location: Krakow, Poland
 
 - name: Config Management Camp
   url: http://cfgmgmtcamp.eu/
@@ -19,18 +19,6 @@
   url: http://www.devopsdays.org/
   description: The conference that brings development and operations together.
   occurences:
-    - start_date: 2015-04-23
-      end_date: 2015-04-24
-      location: Denver, CO
-    - start_date: 2015-04-30
-      end_date: 2015-05-01
-      location: New York, NY
-    - start_date: 2015-05-04
-      end_date: 2015-05-05
-      location: Austin, TX
-    - start_date: 2015-05-14
-      end_date: 2015-05-15
-      location: Toronto, Canada
     - start_date: 2015-06-11
       end_date: 2015-06-12
       location: Washington, DC
@@ -56,10 +44,6 @@
 - name: Gluecon
   url: http://gluecon.com/
   description: Gluecon covers topics like NoSQL, APIs, Node.js, HTML5, Backend-as-a-Service, cloud management and security, cloud storage, Hadoop, DevOps, Mobile App development, cloud platforms, and many, many others.
-  occurences:
-    - start_date: 2015-05-20
-      end_date: 2015-05-21
-      location: Broomfield, CO
 
 - name: Large Installation System Administration Conference
   url: https://www.usenix.org/conferences/byname/5
@@ -104,10 +88,6 @@
 - name: Rootconf
   url: https://rootconf.in/2015/
   description: Rootconf will help you to plan and develop a strategy map for infrastructure and devops. It will show you the building blocks for reaching a strategy for Infrastructure Scaling, Continuous Integration, Deployment and Delivery.
-  occurences:
-    - start_date: 2015-05-15
-      end_date: 2015-05-16
-      location: Bangalore, India
 
 - name: Surge
   url: http://surge.omniti.com/2015
@@ -136,18 +116,11 @@
 - name: USENIX SREcon
   url: https://www.usenix.org/conferences/byname/925
   description: Two days of highly technical subjects around site reliability and production systems at scale.
-  occurences:
-    - start_date: 2015-05-14
-      end_date: 2015-05-15
-      location: Dublin, Ireland
 
 - name: Velocity
   url: http://velocityconf.com/
   description: A Conference for Web Operations, End-to-End Optimization, IT as a Business Driver, Ubiquitous Delivery for all including Mobile Platforms, Deliberately Unstable Systems & Performance
   occurences:
-    - start_date: 2015-05-27
-      end_date: 2015-05-29
-      location: Santa Clara, CA
     - start_date: 2015-08-11
       end_date: 2015-08-12
       location: Bejing, China
