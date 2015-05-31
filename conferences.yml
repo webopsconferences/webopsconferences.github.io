@@ -77,6 +77,10 @@
       end_date: 2015-06-24
       location: Portland, OR
 
+- name: PIPELINE
+  url: http://web.pipelineconf.info/about/
+  description: PIPELINE is an annual not-for-profit one day conference focussed on Continuous Delivery.
+
 - name: QCon
   url: https://qconsf.com/
   description: QCon empowers software development by facilitating the spread of knowledge and innovation in the developer community. A practitioner-driven conference, QCon is designed for technical team leads, architects, engineering directors, and project managers who influence innovation in their teams.
