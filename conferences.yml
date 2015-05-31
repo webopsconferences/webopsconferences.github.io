@@ -70,7 +70,7 @@
       location: London, United Kingdom
 
 - name: OSCON
-  url: http://www.oscon.com
+  url: http://www.oscon.com/open-source-2015
   description: OSCON celebrates, defines, and demonstrates the power of open source in the world today.
   occurences:
     - start_date: 2015-06-20
