@@ -11,6 +11,14 @@
   url: http://atmosphere-conference.com/
   description: The conference is addressed to everyone who works and lives in the Internet environment and faces the challenge of integrating the work of project managers, programmers, web developers and content managers. The dynamic growth of e-business requires the continuous improvement of web stability and web performance knowledge. There is no better way to avoid mistakes than the exchange of experiences between people that solve similar problems. Our aim is to deliver this knowledge with the help of Polish and international leaders in the field.
 
+- name: AutomaCon
+  url: http://www.automacon.io/
+  description: Modern DevOps concerns have evolved to encompass more holistic approaches to infrastructure automation. AutomaCon will gather the leading minds and practitioners in the DevOps community together to exchange ideas, with the goal of updating and unifying the industry's definition of "Infrastructure as Code". We will draw on the experiences of those who have stories to share, learn about new tooling & workflows, and identify vendor-agnostic best practices.
+  occurences:
+    - start_date: 2015-09-15
+      end_date: 2015-09-16
+      location: Portland, OR
+
 - name: Config Management Camp
   url: http://cfgmgmtcamp.eu/
   description: ConfigManagementCamp is the event for people interested in open source configuration management to meet each other. ConfigManagementCamp will be the event where different communities will meet and exchange ideas both internally and within the broader community.
