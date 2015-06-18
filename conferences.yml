@@ -19,9 +19,6 @@
   url: http://www.devopsdays.org/
   description: The conference that brings development and operations together.
   occurences:
-    - start_date: 2015-06-11
-      end_date: 2015-06-12
-      location: Washington, DC
     - start_date: 2015-06-24
       end_date: 2015-06-26
       location: Amsterdam, Netherlands
@@ -32,10 +29,6 @@
 - name: dotScale
   url: http://www.dotscale.io/
   description: dotScale is a unique tech conference on Scalability, DevOps and Distributed Systems. Our mission is to invite the best hackers worldwide to share their insights on stage!
-  occurences:
-    - start_date: 2015-06-08
-      end_date: 2015-06-08
-      location: Paris, France
 
 - name: Flowcon
   url: http://flowcon.org/
@@ -56,10 +49,6 @@
 - name: Monitorama
   url: http://monitorama.com/
   description: An open source monitoring conference and hackathon.
-  occurences:
-    - start_date: 2015-06-15
-      end_date: 2015-06-17
-      location: Portland, OR
 
 - name: Operability.IO
   url: http://operability.io/
