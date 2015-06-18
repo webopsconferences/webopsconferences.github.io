@@ -33,6 +33,33 @@
     - start_date: 2015-07-08
       end_date: 2015-07-09
       location: Minneapolis, MN
+    - start_date: 2015-07-16
+      end_date: 2015-07-17
+      location: Melbourne, Australia
+    - start_date: 2015-08-13
+      end_date: 2015-08-14
+      location: Pittsburgh, PA
+    - start_date: 2015-08-25
+      end_date: 2015-08-26
+      location: Chicago, IL
+    - start_date: 2015-09-12
+      end_date: 2015-09-13
+      location: Bangalore, India
+    - start_date: 2015-09-15
+      end_date: 2015-09-16
+      location: Boston, MA
+    - start_date: 2015-10-07
+      end_date: 2015-10-08
+      location: Tel Aviv, Israel
+    - start_date: 2015-10-14
+      end_date: 2015-10-15
+      location: Perth, Australia
+    - start_date: 2015-10-26
+      end_date: 2015-10-27
+      location: Berlin, Germany
+    - start_date: 2015-11-06
+      end_date: 2015-11-07
+      location: Mountain View, CA
 
 - name: dotScale
   url: http://www.dotscale.io/
