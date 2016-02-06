@@ -1,11 +1,7 @@
 --- # Conferences
 - name: '@Scale'
-  url: http://atscaleconference.com/
+  url: http://www.atscaleconference.com/
   description: '@Scale is a series of technical conferences for engineers who build or maintain systems that are designed for scale. Building applications and services that scale to millions or even billions of people presents a complex set of engineering challenges, many of them unprecedented. The @Scale community is focused on bringing people together to openly discuss these challenges and collaborate on the development of new solutions.'
-  occurences:
-      - start_date: 2015-09-14
-        end_date: 2015-09-14
-        location: San Jose, CA
 
 - name: Atmosphere
   url: http://atmosphere-conference.com/
@@ -15,8 +11,8 @@
   url: http://www.automacon.io/
   description: Modern DevOps concerns have evolved to encompass more holistic approaches to infrastructure automation. AutomaCon will gather the leading minds and practitioners in the DevOps community together to exchange ideas, with the goal of updating and unifying the industry's definition of "Infrastructure as Code". We will draw on the experiences of those who have stories to share, learn about new tooling & workflows, and identify vendor-agnostic best practices.
   occurences:
-    - start_date: 2015-09-15
-      end_date: 2015-09-16
+    - start_date: 2016-09-27
+      end_date: 2016-09-29
       location: Portland, OR
 
 - name: Config Management Camp
@@ -27,43 +23,50 @@
   url: http://www.devopsdays.org/
   description: The conference that brings development and operations together.
   occurences:
-    - start_date: 2015-06-24
-      end_date: 2015-06-26
+    - start_date: 2016-04-15
+      end_date: 2016-04-16
+      location: Vancouver, CA
+    - start_date: 2016-04-19
+      end_date: 2016-04-20
+      location: London, United Kingdom
+    - start_date: 2016-04-21
+      end_date: 2016-04-22
+      location: Denver, CO
+    - start_date: 2016-04-26
+      end_date: 2016-04-27
+      location: Atlanta, GA
+    - start_date: 2016-05-02
+      end_date: 2016-05-03
+      location: Austin, TS
+    - start_date: 2016-05-12
+      end_date: 2016-05-13
+      location: Kiel, Germany
+    - start_date: 2016-05-12
+      end_date: 2016-05-13
+      location: Seattle, WA
+    - start_date: 2016-05-26
+      end_date: 2016-05-27
+      location: Toronto, Canada
+    - start_date: 2016-06-08
+      end_date: 2016-06-09
+      location: Alexandria, VA
+    - start_date: 2016-06-14
+      end_date: 2016-06-15
+      location: Salt Lake City, UT
+    - start_date: 2016-06-29
+      end_date: 2016-07-01
       location: Amsterdam, Netherlands
-    - start_date: 2015-07-08
-      end_date: 2015-07-09
+    - start_date: 2016-07-20
+      end_date: 2016-07-21
       location: Minneapolis, MN
-    - start_date: 2015-07-16
-      end_date: 2015-07-17
-      location: Melbourne, Australia
-    - start_date: 2015-08-13
-      end_date: 2015-08-14
-      location: Pittsburgh, PA
-    - start_date: 2015-08-25
-      end_date: 2015-08-26
-      location: Chicago, IL
-    - start_date: 2015-09-12
-      end_date: 2015-09-13
-      location: Bangalore, India
-    - start_date: 2015-09-15
-      end_date: 2015-09-16
-      location: Boston, MA
-    - start_date: 2015-10-07
-      end_date: 2015-10-08
-      location: Tel Aviv, Israel
-    - start_date: 2015-10-14
-      end_date: 2015-10-15
-      location: Perth, Australia
-    - start_date: 2015-10-26
-      end_date: 2015-10-27
-      location: Berlin, Germany
-    - start_date: 2015-11-06
-      end_date: 2015-11-07
-      location: Mountain View, CA
 
 - name: dotScale
   url: http://www.dotscale.io/
   description: dotScale is a unique tech conference on Scalability, DevOps and Distributed Systems. Our mission is to invite the best hackers worldwide to share their insights on stage!
+  occurences:
+      - start_date: 2016-04-25
+        end_date: 2016-04-25
+        location: Paris, France
 
 - name: Flowcon
   url: http://flowcon.org/
@@ -72,97 +75,113 @@
 - name: Gluecon
   url: http://gluecon.com/
   description: Gluecon covers topics like NoSQL, APIs, Node.js, HTML5, Backend-as-a-Service, cloud management and security, cloud storage, Hadoop, DevOps, Mobile App development, cloud platforms, and many, many others.
+  occurences:
+      - start_date: 2016-05-25
+        end_date: 2016-05-26
+        location: Broomfield, CO
 
 - name: Large Installation System Administration Conference
   url: https://www.usenix.org/conferences/byname/5
   description: LISA is the premier conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
   occurences:
-    - start_date: 2015-11-08
-      end_date: 2015-11-13
-      location: Washington, DC
+    - start_date: 2016-12-04
+      end_date: 2016-12-09
+      location: Boston, MA
 
 - name: Monitorama
   url: http://monitorama.com/
   description: An open source monitoring conference and hackathon.
+  occurences:
+      - start_date: 2016-06-27
+        end_date: 2016-06-29
+        location: Portland, OR
 
 - name: Operability.IO
   url: http://operability.io/
   description: Come and learn from your peers how new processes, tools and techniques are changing IT Operations forever.
   occurences:
-    - start_date: 2015-09-24
-      end_date: 2015-09-25
-      location: London, United Kingdom
+      - start_date: 2016-09-19
+        end_date: 2016-09-20
+        location: London, United Kingdom
 
 - name: OSCON
-  url: http://www.oscon.com/open-source-2015
+  url: http://conferences.oreilly.com/oscon/open-source-us
   description: OSCON celebrates, defines, and demonstrates the power of open source in the world today.
   occurences:
-    - start_date: 2015-06-20
-      end_date: 2015-06-24
-      location: Portland, OR
+      - start_date: 2016-05-16
+        end_date: 2016-05-17
+        location: Austin, TX
 
 - name: PIPELINE
   url: http://web.pipelineconf.info/about/
   description: PIPELINE is an annual not-for-profit one day conference focussed on Continuous Delivery.
+  occurences:
+      - start_date: 2016-03-23
+        end_date: 2016-03-23
+        location: London, United Kingdom
 
 - name: QCon
   url: https://qconsf.com/
   description: QCon empowers software development by facilitating the spread of knowledge and innovation in the developer community. A practitioner-driven conference, QCon is designed for technical team leads, architects, engineering directors, and project managers who influence innovation in their teams.
   occurences:
-    - start_date: 2015-11-16
-      end_date: 2015-11-18
+    - start_date: 2016-11-07
+      end_date: 2016-11-11
       location: San Francisco, CA
 
 - name: Rootconf
-  url: https://rootconf.in/2015/
+  url: https://rootconf.in/2016/
   description: Rootconf will help you to plan and develop a strategy map for infrastructure and devops. It will show you the building blocks for reaching a strategy for Infrastructure Scaling, Continuous Integration, Deployment and Delivery.
+  occurences:
+      - start_date: 2016-04-14
+        end_date: 2016-04-15
+        location: Bandalore, India
+
+- name: Scale Summit
+  url: http://www.scalesummit.org/
+  description: Scale Summit is an annual unconference event, bringing together professionals from the operations and software development communities who have a particular interest in scalable, high performance systems. 
+  occurences:
+    - start_date: 2016-05-18
+      end_date: 2016-05-18
+      location: London, United Kingdom
 
 - name: Software Circus
   url: http://softwarecircus.io/
   description: An international event on programmable infrastructure.
-  occurences:
-    - start_date: 2015-09-10
-      end_date: 2015-09-11
-      location: Amsterdam, Denmark
 
 - name: Surge
   url: http://surge.omniti.com/2015
   description: The Surge Conference is the place where Web Infrastructure and Scalability experts gather, advance and emerge. It is where you can access the people and ideas that matter most to your company and career.
   occurences:
-    - start_date: 2015-09-23
-      end_date: 2015-09-25
+    - start_date: 2016-09-21
+      end_date: 2016-09-23
       location: National Harbor, MD
 
 - name: USENIX Configuration Management Summit
   url: https://www.usenix.org/conferences/byname/714
   description:  We will continue to bring the configuration management community together to advance the state of configuration management, discuss its problems and solutions, and enhance the community of this growing field.
-  occurences:
-    - start_date: 2015-11-09
-      end_date: 2015-11-09
-      location: Washington, DC
 
 - name: USENIX Release Engineering Summit
   url: https://www.usenix.org/conferences/byname/882
   description: We will bring members of the release engineering community together to advance the state of release engineering, discuss its problems and solutions, and provide a forum for communication for members of this quickly growing field.
-  occurences:
-    - start_date: 2015-11-13
-      end_date: 2015-11-13
-      location: Washington, DC
 
 - name: USENIX SREcon
   url: https://www.usenix.org/conferences/byname/925
   description: Two days of highly technical subjects around site reliability and production systems at scale.
+  occurences:
+    - start_date: 2016-04-07
+      end_date: 2016-04-08
+      location: Santa Clara, CA
 
 - name: Velocity
-  url: http://velocityconf.com/
+  url: http://conferences.oreilly.com/velocity
   description: A Conference for Web Operations, End-to-End Optimization, IT as a Business Driver, Ubiquitous Delivery for all including Mobile Platforms, Deliberately Unstable Systems & Performance
   occurences:
-    - start_date: 2015-08-11
-      end_date: 2015-08-12
-      location: Bejing, China
-    - start_date: 2015-10-12
-      end_date: 2015-10-14
+    - start_date: 2016-06-20
+      end_date: 2016-06-23
+      location: Santa Clara, CA
+    - start_date: 2016-09-19
+      end_date: 2016-09-22
       location: New York, NY
-    - start_date: 2015-10-28
-      end_date: 2015-10-30
+    - start_date: 2016-11-07
+      end_date: 2016-11-09
       location: Amsterdam, Netherlands
