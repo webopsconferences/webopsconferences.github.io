@@ -136,6 +136,14 @@
         end_date: 2016-04-15
         location: Bandalore, India
 
+- name: ScaleConf
+  url: http://scaleconf.org/
+  description: Each year ScaleConf brings international and local experts together to talk about their experience building sites and services that can handle the rigours of today's internet. 
+  occurences:
+    - start_date: 2016-03-10
+      end_date: 2016-03-11
+      location: Cape Town, South Africa
+
 - name: Scale Summit
   url: http://www.scalesummit.org/
   description: Scale Summit is an annual unconference event, bringing together professionals from the operations and software development communities who have a particular interest in scalable, high performance systems. 
