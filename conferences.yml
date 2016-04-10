@@ -60,6 +60,14 @@
       end_date: 2016-07-21
       location: Minneapolis, MN
 
+- name: DevSecCon
+  url: http://www.devseccon.com/
+  description: We’re bringing together DevOps and SecOps in a unique conference that’s run by practitioners, for practitioners. This is your chance to learn from key industry figures, meet with your peers and hear how DevOps and SecOps work together in the real world.
+  occurences:
+      - start_date: 2016-10-20
+        end_date: 2016-10-20
+        location: London, United Kingdom
+
 - name: dotScale
   url: http://www.dotscale.io/
   description: dotScale is a unique tech conference on Scalability, DevOps and Distributed Systems. Our mission is to invite the best hackers worldwide to share their insights on stage!
