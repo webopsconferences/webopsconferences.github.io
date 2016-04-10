@@ -113,7 +113,7 @@
         location: Austin, TX
 
 - name: PIPELINE
-  url: http://web.pipelineconf.info/about/
+  url: https://web.pipelineconf.info/about/
   description: PIPELINE is an annual not-for-profit one day conference focussed on Continuous Delivery.
 
 - name: QCon
