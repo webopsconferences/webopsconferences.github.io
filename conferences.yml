@@ -23,46 +23,13 @@
         end_date: 2016-11-15
         location: Berlin, Germany
 
-- name: Devops Days
+- name: DevOpsDays
   url: http://www.devopsdays.org/
   description: The conference that brings development and operations together.
   occurences:
-    - start_date: 2016-04-15
-      end_date: 2016-04-16
-      location: Vancouver, CA
-    - start_date: 2016-04-19
-      end_date: 2016-04-20
-      location: London, United Kingdom
-    - start_date: 2016-04-21
-      end_date: 2016-04-22
-      location: Denver, CO
-    - start_date: 2016-04-26
-      end_date: 2016-04-27
-      location: Atlanta, GA
-    - start_date: 2016-05-02
-      end_date: 2016-05-03
-      location: Austin, TS
-    - start_date: 2016-05-12
-      end_date: 2016-05-13
-      location: Kiel, Germany
-    - start_date: 2016-05-12
-      end_date: 2016-05-13
-      location: Seattle, WA
-    - start_date: 2016-05-26
-      end_date: 2016-05-27
-      location: Toronto, Canada
-    - start_date: 2016-06-08
-      end_date: 2016-06-09
-      location: Alexandria, VA
-    - start_date: 2016-06-14
-      end_date: 2016-06-15
-      location: Salt Lake City, UT
-    - start_date: 2016-06-29
-      end_date: 2016-07-01
-      location: Amsterdam, Netherlands
-    - start_date: 2016-07-20
-      end_date: 2016-07-21
-      location: Minneapolis, MN
+      - start_date: Not Listed
+        end_date: Not Listed
+        location: See DevOpsDays Website
 
 - name: DevSecCon
   url: http://www.devseccon.com/
