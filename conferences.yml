@@ -6,10 +6,6 @@
 - name: Atmosphere
   url: http://2017.atmosphere-conference.com/
   description: The conference is addressed to everyone who works and lives in the Internet environment and faces the challenge of integrating the work of project managers, programmers, web developers and content managers. The dynamic growth of e-business requires the continuous improvement of web stability and web performance knowledge. There is no better way to avoid mistakes than the exchange of experiences between people that solve similar problems. Our aim is to deliver this knowledge with the help of Polish and international leaders in the field.
-  occurences:
-    - start_date: 2017-05-16
-      end_date: 2017-05-17
-      location: Portland, OR
 
 - name: AutomaCon
   url: http://www.automacon.io/
@@ -18,6 +14,10 @@
 - name: Config Management Camp
   url: http://cfgmgmtcamp.eu/
   description: ConfigManagementCamp is the event for people interested in open source configuration management to meet each other. ConfigManagementCamp will be the event where different communities will meet and exchange ideas both internally and within the broader community.
+  occurences:
+    - start_date: 2018-02-05
+      end_date: 2018-02-07
+      location: Gent, Belgium
 
 - name: DevOpsDays
   url: https://www.devopsdays.org/
@@ -30,145 +30,116 @@
 - name: DevSecCon
   url: http://www.devseccon.com/
   description: We're bringing together DevOps and SecOps in a unique conference that’s run by practitioners, for practitioners. This is your chance to learn from key industry figures, meet with your peers and hear how DevOps and SecOps work together in the real world.
+  occurences:
+    - start_date: 2018-02-22
+      end_date: 2018-02-23
+      location: Singapore
+    - start_date: 2018-05-07
+      end_date: 2018-05-07
+      location: Tel Aviv, Israel
+    - start_date: 2018-10-18
+      end_date: 2018-10-19
+      location: London, UK
 
 - name: dotScale
   url: https://www.dotscale.io/
   description: dotScale is a unique tech conference on Scalability, DevOps and Distributed Systems. Our mission is to invite the best hackers worldwide to share their insights on stage!
   occurences:
-    - start_date: 2017-04-24
-      end_date: 2017-04-24
+    - start_date: 2018-05-31
+      end_date: 2018-06-01
       location: Paris, France
-
-- name: Flowcon
-  url: http://flowcon.org/
-  description: FlowCon brings together technologists and industry leaders passionate about innovation through continuous delivery, continuous design, and lean product development. We'll be exploring the role of culture, technology and design in growing organisations that thrive in an environment of continual change. We will provide inspiring and actionable information for key decision makers responsible for products and services that depend on software.
 
 - name: Gluecon
   url: http://gluecon.com/
   description: Gluecon covers topics like NoSQL, APIs, Node.js, HTML5, Backend-as-a-Service, cloud management and security, cloud storage, Hadoop, DevOps, Mobile App development, cloud platforms, and many, many others.
   occurences:
-    - start_date: 2017-05-24
-      end_date: 2016-05-25
+    - start_date: 2018-05-16
+      end_date: 2018-05-17
       location: Broomfield, CO
 
 - name: Large Installation System Administration Conference
   url: https://www.usenix.org/conferences/byname/5
   description: LISA is the premier conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
-  occurences:
-    - start_date: 2017-10-29
-      end_date: 2017-11-03
-      location: San Francisco, CA
 
 - name: Monitorama
   url: http://monitorama.com/
   description: An open source monitoring conference and hackathon.
   occurences:
-      - start_date: 2017-05-22
-        end_date: 2017-05-24
+      - start_date: 2018-06-04
+        end_date: 2018-06-06
         location: Portland, OR
 
 - name: Operability.IO
   url: http://operability.io/
   description: Come and learn from your peers how new processes, tools and techniques are changing IT Operations forever.
-  occurences:
-      - start_date: 2017-10-10
-        end_date: 2017-10-11
-        location: London, UK
 
 - name: OSCON
   url: https://conferences.oreilly.com/oscon/oscon-tx
   description: OSCON celebrates, defines, and demonstrates the power of open source in the world today.
-  occurences:
-      - start_date: 2017-05-10
-        end_date: 2017-05-11
-        location: Austin, TX
 
 - name: PIPELINE
-  url: https://web.pipelineconf.info/about/
+  url: https://pipelineconf.info/about/
   description: PIPELINE is an annual not-for-profit one day conference focussed on Continuous Delivery.
   occurences:
-      - start_date: 2017-03-21
-        end_date: 2017-03-21
+      - start_date: 2018-03-20
+        end_date: 2018-03-20
         location: London, UK
 
 - name: QCon
   url: https://qconsf.com/
   description: QCon empowers software development by facilitating the spread of knowledge and innovation in the developer community. A practitioner-driven conference, QCon is designed for technical team leads, architects, engineering directors, and project managers who influence innovation in their teams.
   occurences:
-    - start_date: 2017-04-25
-      end_date: 2017-04-26
-      location: Sai Paulo, Brazil
-    - start_date: 2017-06-29
-      end_date: 2017-06-30
-      location: New York City, NY
-    - start_date: 2017-11-16
-      end_date: 2017-11-17
+    - start_date: 2018-03-05
+      end_date: 2018-03-07
+      location: London, UK
+    - start_date: 2018-11-05
+      end_date: 2018-11-07
       location: San Francisco, CA
 
 - name: Rootconf
-  url: https://rootconf.in/2016/
+  url: https://rootconf.in/
   description: Rootconf will help you to plan and develop a strategy map for infrastructure and devops. It will show you the building blocks for reaching a strategy for Infrastructure Scaling, Continuous Integration, Deployment and Delivery.
 
 - name: ScaleConf
   url: http://scaleconf.org/
   description: Each year ScaleConf brings international and local experts together to talk about their experience building sites and services that can handle the rigours of today's internet. 
   occurences:
-    - start_date: 2017-03-09
-      end_date: 2017-03-10
+    - start_date: 2018-03-08
+      end_date: 2018-03-09
       location: Cape Town, South Africa
 
 - name: Scale Summit
   url: http://www.scalesummit.org/
   description: Scale Summit is an annual unconference event, bringing together professionals from the operations and software development communities who have a particular interest in scalable, high performance systems. 
   occurences:
-    - start_date: 2017-03-24
-      end_date: 2017-03-24
+    - start_date: 2018-03-16
+      end_date: 2018-03-16
       location: London, UK
-
-- name: Software Circus
-  url: http://cloudnativecomputing.softwarecircus.io/
-  description: Conference about Cloud Native Computing.
-
-- name: Surge
-  url: https://go.omniti.com/surge/
-  description: The Surge Conference is the place where Web Infrastructure and Scalability experts gather, advance and emerge. It is where you can access the people and ideas that matter most to your company and career.
-  occurences:
-    - start_date: 2017-09-21
-      end_date: 2017-09-23
-      location: Washington, DC
-
-- name: USENIX Configuration Management Summit
-  url: https://www.usenix.org/conferences/byname/714
-  description:  We will continue to bring the configuration management community together to advance the state of configuration management, discuss its problems and solutions, and enhance the community of this growing field.
-
-- name: USENIX Release Engineering Summit
-  url: https://www.usenix.org/conferences/byname/882
-  description: We will bring members of the release engineering community together to advance the state of release engineering, discuss its problems and solutions, and provide a forum for communication for members of this quickly growing field.
 
 - name: USENIX SREcon
   url: https://www.usenix.org/conferences/byname/925
   description: Two days of highly technical subjects around site reliability and production systems at scale.
   occurences:
-    - start_date: 2017-04-13
-      end_date: 2017-03-14
-      location: San Francisco, CA
-    - start_date: 2017-05-22
-      end_date: 2017-05-24
+    - start_date: 2018-03-27
+      end_date: 2018-03-29
+      location: Santa Clara, CA
+    - start_date: 2018-06-06
+      end_date: 2018-06-08
       location: Singapore
-    - start_date: 2017-08-30
-      end_date: 2017-09-01
-      location: Dublin, Ireland
+    - start_date: 2018-08-29
+      end_date: 2018-08-31
+      location: Dusseldorf, Germany
 
 - name: Velocity
   url: https://conferences.oreilly.com/velocity
   description: A Conference for Web Operations, End-to-End Optimization, IT as a Business Driver, Ubiquitous Delivery for all including Mobile Platforms, Deliberately Unstable Systems & Performance
   occurences:
-    - start_date: 2017-06-19
-      end_date: 2017-06-22
+    - start_date: 2018-06-11
+      end_date: 2018-06-14
       location: San Jose, CA
-    - start_date: 2017-10-01
-      end_date: 2017-10-04
+    - start_date: 2018-09-30
+      end_date: 2018-10-03
       location: New York, NY
-    - start_date: 2017-10-18
-      end_date: 2017-10-20
+    - start_date: 2018-10-30
+      end_date: 2018-11-02
       location: London, UK
