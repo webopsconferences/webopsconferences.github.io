@@ -31,7 +31,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     parallel (1.12.1)
     public_suffix (3.0.3)
-    rake (12.3.1)
+    rake (12.3.3)
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
