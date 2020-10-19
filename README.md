@@ -1,12 +1,12 @@
 # Web Operations Conferences
 
+_Notice_: I am no longer maintaining this site.
+
 [![Build Status](https://travis-ci.org/webopsconferences/webopsconferences.github.io.svg?branch=master)](https://travis-ci.org/webopsconferences/webopsconferences.github.io)
 
 This is the source to [www.webopsconferences.com](http://www.webopsconferences.com). The purpose of the site is to list conferences of interest to people working in the field of [web operations](http://omniti.com/seeds/what-is-web-operations).
 
-## Contributing
-
-Pull requests that improve any aspect of the site are welcome!
+## Buildint
 
 All the data on conferences is stored in `conferences.yml`,  so to add a new one or update an existing one all you have to do is edit that. I hope the structure is self-explanatory, but if not just ask.
 
